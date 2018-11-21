@@ -22,5 +22,7 @@ BalancedAccuracyRate (BAC) = (TP/totalPositiveLabels+TN/totalNegativeLabels)/2
 # Main script: Bring it all together
 
 a. Reads the training data and builds a perceptron model.  Next it gets predictions from the model using the training set as well as the test set.
+
 b. Mapping the OCR labels to the predictions.  So for example if your prediction is 10, then how will you map it to a label?
+
 c. For the training data as well as the test data, make the confusion matrix for different values of lambda, as given in the report.
