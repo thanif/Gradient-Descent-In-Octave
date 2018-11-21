@@ -1,4 +1,4 @@
-# OCR-System-Using-a-Linear-Perception
+# Gradient-Descent-In-Octave
 
 # Training part
 
