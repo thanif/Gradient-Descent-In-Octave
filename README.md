@@ -1,4 +1,4 @@
-# Gradient-Descent-In-Octave
+# Gradient-Descent-in-Octave
 
 # Training part
 
